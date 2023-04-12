@@ -1,4 +1,4 @@
-# AeonLabs-WebAppBuilder
+# Prototype code for a Web App Builder
 
 
 <br />
